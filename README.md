@@ -1,2 +1,2 @@
-# axle
+# axel
 Lightweight JavaScript component library.

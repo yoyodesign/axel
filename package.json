@@ -1,8 +1,8 @@
 {
-  "name": "@yoyo/axle",
+  "name": "@yoyo/axel",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "git@github.com/yoyodesign/axle",
+  "repository": "git@github.com/yoyodesign/axel",
   "author": "Thomas (Alfie) Gaskill <tom.gaskill@yoyodesign.com>",
   "license": "MIT",
   "scripts": {
